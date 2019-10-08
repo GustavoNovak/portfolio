@@ -103,13 +103,7 @@
 ------------------------------------------------------*/
 
     $('.item-wrap a').magnificPopup({
-
-       type:'inline',
-       fixedContentPos: false,
-       removalDelay: 200,
-       showCloseBtn: false,
-       mainClass: 'mfp-fade'
-
+      type: 'image'
     });
 
     $(document).on('click', '.popup-modal-dismiss', function (e) {

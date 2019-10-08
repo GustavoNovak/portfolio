@@ -1,43 +1,38 @@
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
-    "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "name": "Gustavo Novak",
+    "role": "Mechanical and Automation Engineering Student and Web Developer",
+    "linkedinId":"novak-gustavo",
+    "skypeid": "live:gustavo_novak",
+    "roleDescription": " I like dabbling in various domains to learn about new technologies in searching of constant learning. I'm passionate about engineering/product development mainly in Robotics, aerospatial and automotive domains.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/novak-gustavo/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/GustavoNovak",
           "className":"fa fa-github"
-        },
-        {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
-          "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"I am currently a final year student at INSA Rennes passionate about challenges. I am also a self-taught Web Developer, currently founding a start-up relative to the automatisation of accounting process management. In my point of view the secret to the achieve self-realisation is doing what you love.",
+    "address":"France, Rennes",
+    "website":"https://www.linkedin.com/in/novak-gustavo/",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
+        "UniversityName":"Institut National des Sciences Appliquées de Rennes",
+        "specialization":"Mechanical and Automation Engineering",
         "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
+        "YearOfPassing":"2018",
         "Achievements":"Some Achievements"
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
+        "UniversityName":"Universidade Federal do Paraná",
+        "specialization":"Mechanical Engineering",
         "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
+        "YearOfPassing":"2014",
         "Achievements":"Some Achievements"
       }
     ],
@@ -73,22 +68,22 @@ let resumeData = {
       {
         "name":"project1",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "imgurl":"images/portfolio/clipador.png"
       },
       {
         "name":"project2",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "imgurl":"images/portfolio/formulaGlobal2D.png"
       },
       {
         "name":"project3",
         "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "imgurl":"images/portfolio/frontUpright2D.png"
       },
       {
         "name":"project4",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "imgurl":"images/portfolio/chassisSimulation.jpg"
       }
     ],
     "testimonials":[
