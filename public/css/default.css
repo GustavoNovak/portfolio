@@ -613,11 +613,14 @@ input[type="checkbox"] { display: inline; }
 .row:after {
     clear: both;
 }
-
+.portfolio-item {
+   height: 180px !important;
+   overflow: hidden;
+}
 .column, .columns {
    position: relative;
    padding: 0 20px;
-   min-height: 180px;
+   min-height: 1px;
    float: left;
 }
 .column.centered, .columns.centered  {
@@ -719,6 +722,11 @@ properly.
 /* mobile wide/smaller tablets
 --------------------------------------------------------------- */
 @media only screen and (max-width: 767px) {
+
+   .portfolio-item {
+      height: auto !important;
+      overflow: none;
+   }
 
    .row {
 	   width: 460px;

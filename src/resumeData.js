@@ -54,7 +54,7 @@ let resumeData = {
         "specialization":"Chief Engineer",
         "MonthOfLeaving":"Jun",
         "YearOfLeaving":"2015",
-        "Achievements":"Review the projects and analysis before execute them and I also took care of the global CAD to avoid conflicts. Another important aspect of my job was to give courses to participants about mechanical project. I also could learn about how to manage a project and how to work with designing in a complex assembly context. Thereafter, I could notice the importance of create a good documentation of how the projects was done."
+        "Achievements":"Revision of projects and analysis before execute them, I also took care of the global CAD to avoid conflicts between different departments. Another important aspect of my job was to give courses to participants about mechanical project. I also could learn about how to manage a project and how to deal with designing in a complex assembly context. Thereafter, I could notice the importance of create a good documentation of how the projects was done to keep the knowledge in the organisation."
       },
       {
         "CompanyName":"UFPR Mechanical Engineering Junior Enterprise",
@@ -123,10 +123,20 @@ let resumeData = {
         "description":"UFPR Mechanical Engineering Junior Enterprise",
         "imgurl":"images/portfolio/clipador.png"
       },
-       {
+      {
         "name":"Surgical Clipper 2D drawing",
         "description":"UFPR Mechanical Engineering Junior Enterprise",
         "imgurl":"images/portfolio/2DGlobal.jpg"
+      },
+      {
+        "name":"Dashboard process management system",
+        "description":"CONFI",
+        "imgurl":"images/portfolio/confiDashboard.jpg"
+      },
+      {
+        "name":"Tasks process management system",
+        "description":"CONFI",
+        "imgurl":"images/portfolio/confiManageTasks.jpg"
       },
       {
         "name":"Folding Sack Truck render",
@@ -152,13 +162,44 @@ let resumeData = {
         "name":"Street Sweeper Car 2D drawing",
         "description":"UFPR Mechanical Engineering Junior Enterprise",
         "imgurl":"images/portfolio/gariSimulation.png"
+      },
+      {
+        "name":"Certificate of Participation",
+        "description":"UFPR Mechanical Engineering Junior Enterprise",
+        "imgurl":"images/portfolio/certificateCoemjr.jpg"
+      }
+      ,
+      {
+        "name":"Certificate of Participation",
+        "description":"UFPR Formula SAE",
+        "imgurl":"images/portfolio/certificateFormula.jpg"
+      },
+      {
+        "name":"Certificate workshop ANSYS",
+        "description":"UFPR Mechanical Engineering Junior Enterprise",
+        "imgurl":"images/portfolio/workshopAnsysCoem.jpg"
+      },
+      {
+        "name":"Certificate workshop Catia V5",
+        "description":"UFPR Mechanical Engineering Junior Enterprise",
+        "imgurl":"images/portfolio/workshopCatiaEngMec.jpg"
+      },
+      {
+        "name":"Certificate workshop Solidworks",
+        "description":"UFPR Mechanical Engineering Junior Enterprise",
+        "imgurl":"images/portfolio/workshopSolidworksCoem.jpg"
+      },
+      {
+        "name":"Certificate Green Belt",
+        "imgurl":"images/portfolio/certificateGreenBelt.jpg"
+      },
+      {
+        "name":"Certificate SAE",
+        "description":"Society of Automotive Engineers",
+        "imgurl":"images/portfolio/certificateSAE.jpg"
       }
     ],
     "testimonials":[
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      },
       {
         "description":"Gustavo is a good team worker. He won't stop until he got the excellence on a project.",
         "name":"Daniella Novak"
