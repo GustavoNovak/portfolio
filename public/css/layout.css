@@ -297,6 +297,15 @@ ul#nav li.current a { color: #F06000; }
   	margin-top: 36px;
    list-style: none;
 }
+.bars .skills li .advanced {
+  width: 100%;
+}
+.bars .skills li .basic {
+  width: 60%;
+}
+.bars .skills li .intermediary {
+  width: 80%;
+}
 .bars li {
    position: relative;
   	margin-bottom: 60px;
