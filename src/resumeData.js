@@ -17,8 +17,8 @@ let resumeData = {
           "className":"fa fa-github"
         }
       ],
-    "aboutme":"I am currently a final year student at INSA Rennes passionate about challenges. I am also a self-taught Web Developer, currently founding a start-up relative to the automatisation of accounting process management. In my point of view the secret to the achieve self-realisation is doing what you love.",
-    "address":"France, Rennes",
+    "aboutme":"I am currently a graduate student at INSA Rennes passionate about challenges. I am also a self-taught Web Developer, currently founding a start-up relative to the automatisation of accounting process management. In my point of view the secret to the achieve self-realisation is doing what you love.",
+    "address":"France, Paris",
     "website":"https://www.linkedin.com/in/novak-gustavo/",
     "education":[
       {
@@ -35,6 +35,13 @@ let resumeData = {
       }
     ],
     "work":[
+      {
+        "CompanyName":"Wandercraft",
+        "specialization":"Structural Engineering Intership",
+        "MonthOfLeaving":"Feb",
+        "YearOfLeaving":"2020",
+        "Achievements":"Working on the company's mechanical team, I had the possibility of improve my skills in finite element analysis and study its intrinsic problematics (representativeness, discretization error, modelisation approximations, etc). In order to enhance actual structural finite element simulations, my last mission consisted in the development of a methodology to experimentaly estimate exoskeleton's actuators torsors efforts through extensometry data. Considering the ruge amount of data a software was developed to treat the data and optimize strain gauges placement (Solidworks, Python and MySQL)."
+      },
       {
         "CompanyName":"Civil and Mechanical Engineering Laboratory",
         "specialization":"Mobile Robotics",
@@ -78,8 +85,20 @@ let resumeData = {
         "skilllevel":"advanced"
       },
       {
+        "skillname":"Abaqus", 
+        "skilllevel":"intermediary"
+      },
+      {
         "skillname":"Matlab", 
         "skilllevel":"advanced"
+      },
+      {
+        "skillname":"Python", 
+        "skilllevel":"advanced"
+      },
+      {
+        "skillname":"C++", 
+        "skilllevel":"intermediary"
       },
       {
         "skillname":"Microsoft VBA", 
@@ -200,6 +219,10 @@ let resumeData = {
       }
     ],
     "testimonials":[
+      {
+        "description":"Gustavo is a great mechanical engineer. He is methodical, proactive, creative and passionate about mechanical simulations.",
+        "name":"Adrien Sault"
+      }, 
       {
         "description":"Gustavo is a good team worker. He won't stop until he got the excellence on a project.",
         "name":"Daniella Novak"
