@@ -1,10 +1,10 @@
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
     "name": "Gustavo Novak",
-    "role": "Mechanical and Automation Engineering Student and Web Developer",
+    "role": "Mechanical and Automation Engineering and Web Developer",
     "linkedinId":"novak-gustavo",
     "skypeid": "live:gustavo_novak",
-    "roleDescription": " I like dabbling in various domains to learn about new technologies in searching of constant learning. I'm passionate about engineering/product development mainly in Robotics, aerospatial and automotive domains.",
+    "roleDescription": " I like dabbling in various domains to learn about new technologies in searching of constant learning. I'm passionate about engineering/product development mainly in robotics, aerospatial, medical and automotive domains.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -40,7 +40,7 @@ let resumeData = {
         "specialization":"Structural Engineering Intership",
         "MonthOfLeaving":"Feb",
         "YearOfLeaving":"2020",
-        "Achievements":"Working on the company's mechanical team, I had the possibility of improve my skills in finite element analysis and study its intrinsic problematics (representativeness, discretization error, modelisation approximations, etc). In order to enhance actual structural finite element simulations, my last mission consisted in the development of a methodology to experimentaly estimate exoskeleton's actuators torsors efforts through extensometry data. Considering the ruge amount of data a software was developed to treat the data and optimize strain gauges placement (Solidworks, Python and MySQL)."
+        "Achievements":"Working on the company's mechanical team, I had the possibility to improve my skills in finite element analysis and study its intrinsic problematics (representativeness, discretization error, modelisation approximations, etc). In order to enhance actual structural finite element simulations, my last mission consisted in the development of a methodology to experimentaly estimate exoskeleton's actuators torsors efforts through extensometry data. Considering the huge amount of data a software was developed to treat the data and optimize strain gauges placement (Python and MySQL)."
       },
       {
         "CompanyName":"Civil and Mechanical Engineering Laboratory",
@@ -54,21 +54,21 @@ let resumeData = {
         "specialization":"System Developer",
         "MonthOfLeaving":"Aug",
         "YearOfLeaving":"2018",
-        "Achievements":"Development of a system in PHP, MYSQL, ReactJs to automate the company management and also the development of some programs in VBA to optimize some processes."
+        "Achievements":"Development of a system in PHP, MYSQL, ReactJs to automate the company management. Furthermore, I also developed VBA programs to optimize some company tasks."
       },
       {
         "CompanyName":"UFPR Fórmula SAE",
         "specialization":"Chief Engineer",
         "MonthOfLeaving":"Jun",
         "YearOfLeaving":"2015",
-        "Achievements":"Revision of projects and analysis before execute them, I also took care of the global CAD to avoid conflicts between different departments. Another important aspect of my job was to give courses to participants about mechanical project. I also could learn about how to manage a project and how to deal with designing in a complex assembly context. Thereafter, I could notice the importance of create a good documentation of how the projects was done to keep the knowledge in the organisation."
+        "Achievements":"Revision of projects and analysis before execute them. I also took care of the global CAD to avoid conflicts between different departments. Another important aspect of my job was to give courses to participants about mechanical project. I also learned about how to manage a project and how to deal with designing in a complex assembly context. Thereafter, I noticed the importance of create a good documentation of how the projects was done to keep the knowledge in the organisation."
       },
       {
         "CompanyName":"UFPR Mechanical Engineering Junior Enterprise",
         "specialization":"Consultant",
         "MonthOfLeaving":"Mar",
         "YearOfLeaving":"2014",
-        "Achievements":"Development of some products with my team, what provided me the possibility to train my skills in CAD (Solidworks), structural analysis (ANSYS) and I also could begin to learn how a company works. In addition, I could  give some courses to the participants about structural analysis, VBA and Solidworks."
+        "Achievements":"Development of products with my team, this provided me the possibility to train my skills in CAD (Solidworks), structural analysis (ANSYS). In addition, I gave some courses to the participants about structural analysis, VBA and Solidworks."
       }
     ],
     "skills":[
