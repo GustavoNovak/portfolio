@@ -1,7 +1,7 @@
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
     "name": "Gustavo Novak",
-    "role": "Mechanical and Automation Engineering and Web Developer",
+    "role": "Mechanical and Automation Engineer and Web Developer",
     "linkedinId":"novak-gustavo",
     "skypeid": "live:gustavo_novak",
     "roleDescription": " I like dabbling in various domains to learn about new technologies in searching of constant learning. I'm passionate about engineering/product development mainly in robotics, aerospatial, medical and automotive domains.",
